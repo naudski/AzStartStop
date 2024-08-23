@@ -15,7 +15,7 @@ This solution has been created to address the following key requirements
 
 Azure (Public)
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsg3-141-592%2FAzStartStop%2Fmain%2FmainTemplate.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fnaudski%2FAzStartStop%2Fmain%2FmainTemplate.json)
 
 After installation you'll need to provide _VM Contributor_ and _Cost Management Reader_ permissions to the User Assigned Managed Identity created during deployment.
 
