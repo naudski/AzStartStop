@@ -14,9 +14,7 @@ table_service.create_table_if_not_exists(table_name="pricecache")
 cache_table_client = table_service.get_table_client(table_name="pricecache")
 
 def get_price(currency, vm):
-    vm_type = "Linux"
-    if vm.os_profile.windows_configuration:
-        vm_type = "Windows"
+    vm_type = "Windows"
     
     lookup_string = f"{currency}_{vm.location}_{vm.hardware_profile.vm_size}_{vm_type}"
     # Create datetime comparison string from a week ago
