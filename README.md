@@ -2,8 +2,6 @@
 
 Az. Start Stop provides a simple interface to define schedules for stopping and starting your Virtual Machines, helping you reduce your compute cost.
 
-<a href="https://vmstartstopdemo.compactcloud.co.uk/">Try it out here!</a>
-
 This solution has been created to address the following key requirements
 
 - User interface to enable your teams to self-manage their compute cost
