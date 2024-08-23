@@ -2,7 +2,7 @@
     <footer class="footer">
         <div class="content">
             <p>
-                Free open source virtual machine cost management. Install now from <a href="https://github.com/sg3-141-592/AzStartStop"><strong>Github - AzStartStop</strong></a>.
+                Free open source virtual machine cost management. Install now from <a href="https://github.com/naudski/AzStartStop"><strong>Github - AzStartStop</strong></a>.
             </p>
             <p>
                 Coming to Azure Marketplace soon.
